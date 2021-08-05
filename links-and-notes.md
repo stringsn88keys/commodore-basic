@@ -2,6 +2,7 @@
 * [Commodore Manuals](http://www.commodore.ca/commodore-manuals/)
 * [Keyboard mapping for VICE](https://vice-emu.pokefinder.org/index.php/VICEKB)
 * [PETSCII Reference](https://style64.org/petscii/)
+* [Invoking the emulators](https://vice-emu.sourceforge.io/vice_3.html)
 * Switching case of the PETSCII fonts using [C= + shift] which is [CTRL] + [Shift] on WinVICE default mapping.
 ```
     poke 53272,23:rem lower/uppercase mode
