@@ -17,6 +17,6 @@
 210 : print"the 8563 memory at";ad;" is";a
 220 : input"new data (0-255) ";a
 230 : sys vo, ad/256, 18
-240 : sys vo, adand2 55,19
+240 : sys vo, adand255,19
 250 : sys vo, a ,31
 260 : loop
